@@ -18,4 +18,4 @@ function shuffle() {
   return shuffledArr;
 }
 
-console.log(`You can use this password: "${shuffle().slice(0, 10).join("")}"`);
+console.log(`You can use this password: ${shuffle().slice(0, 10).join("")}`);
